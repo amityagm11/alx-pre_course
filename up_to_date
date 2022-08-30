@@ -1,0 +1,10 @@
+git clone https://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@github.com/amityagm11/alx-pre_course.git
+git add .
+git commit -m "commit "
+git push
+git checkout 
+git merge
+git status 
+git log
+git branch
+
